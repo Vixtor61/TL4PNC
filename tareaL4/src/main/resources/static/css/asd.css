@@ -1,0 +1,58 @@
+
+p {
+	font-family: sans-serif;
+	color: #52154eff;
+	font-size:2.5em;
+}
+
+h1 {
+	font-family: sans-serif;
+	color: #111344ff;
+	padding-left:1.5em;
+	font-size:2.5em;
+}
+
+label{
+	font-family: sans-serif;
+	color: #52154eff;
+	font-size:1.5em;
+}
+
+a{
+	font-family: sans-serif;
+	color: #52154eff;
+	font-size:1.5em;
+}
+
+input
+	{
+	font-family: sans-serif;
+	color: #52154eff;
+	padding: 0.4em;
+	font-size:1.5em;
+}
+
+span{
+	font-family: sans-serif;
+	color: #e81505;
+	
+	
+}
+
+div {
+	padding: 1em;
+	
+}
+input[type=submit]{
+	color: #efe9e7ff;
+	border: none;
+	padding: 1em;
+	background-color: #111344ff;
+
+}
+
+
+body {
+	
+	background-color: #efe9e7ff;
+}
